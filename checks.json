@@ -1,11 +1,15 @@
 {
-    "tasks":  {
-
-              },
-    "gates":  {
-
-              },
-    "log":  [
-                "2026-08-30T19:49:27.1091871-04:00 write-path test v2"
-            ]
+ "tasks": {},
+ "gates": {},
+ "texts": {
+  "g_mtg21xzyz:t_mtg21xzy10": {
+   "text": "load F1 MAT, demo closet, remove garbage",
+   "by": "adam",
+   "at": "2026-08-30T23:55:31.292Z"
+  }
+ },
+ "log": [
+  "2026-08-30T19:49:27.1091871-04:00 write-path test v2",
+  "2026-08-30T23:55:31.292Z adam edited g_mtg21xzyz:t_mtg21xzy10"
+ ]
 }
