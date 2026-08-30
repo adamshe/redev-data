@@ -1,5 +1,11 @@
 {
- "tasks": {},
+ "tasks": {
+  "g_mtg21xzx9:t_mtg21xzxa": {
+   "done": true,
+   "by": "adam",
+   "at": "2026-08-30T23:59:19.774Z"
+  }
+ },
  "gates": {},
  "texts": {
   "g_mtg21xzyz:t_mtg21xzy10": {
@@ -10,6 +16,7 @@
  },
  "log": [
   "2026-08-30T19:49:27.1091871-04:00 write-path test v2",
-  "2026-08-30T23:55:31.292Z adam edited g_mtg21xzyz:t_mtg21xzy10"
+  "2026-08-30T23:55:31.292Z adam edited g_mtg21xzyz:t_mtg21xzy10",
+  "2026-08-30T23:59:19.774Z adam done g_mtg21xzx9:t_mtg21xzxa"
  ]
 }
