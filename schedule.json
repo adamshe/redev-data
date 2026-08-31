@@ -385,26 +385,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzz1b",
-   "unit": "AS",
-   "code": "ELR",
-   "title": "AS ELR order",
-   "assignees": [
-    "fil"
-   ],
-   "dates": [
-    "2026-09-04"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzz1c",
-     "text": "AS ELR order",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyx",
    "unit": "AS1",
    "code": "MISC",
