@@ -485,7 +485,7 @@
    "tasks": [
     {
      "id": "t_as1_dwv_b2",
-     "text": "AS1 DWV bath complete"
+     "text": "AS1 DWV bath complete + test + kitchen line"
     }
    ]
   },
@@ -568,26 +568,6 @@
      "id": "t_mtg220ab3e",
      "text": "AS ELR.A",
      "done": false
-    }
-   ]
-  },
-  {
-   "id": "g_mtg220aa2h",
-   "unit": "AS1",
-   "code": "DWV",
-   "title": "AS1 DWV",
-   "assignees": [
-    "pm"
-   ],
-   "dates": [
-    "2026-09-14",
-    "2026-09-15"
-   ],
-   "crewDays": 2,
-   "tasks": [
-    {
-     "id": "t_as1_dwv_t",
-     "text": "AS1 DWV test + kitchen line"
     }
    ]
   },
@@ -809,10 +789,9 @@
    ],
    "dates": [
     "2026-09-16",
-    "2026-09-17",
-    "2026-09-18"
+    "2026-09-17"
    ],
-   "crewDays": 3,
+   "crewDays": 2,
    "tasks": [
     {
      "id": "t_mtg220aa2k",
@@ -1228,11 +1207,9 @@
    "dates": [
     "2026-09-28",
     "2026-09-29",
-    "2026-09-30",
-    "2026-10-01",
-    "2026-10-02"
+    "2026-09-30"
    ],
-   "crewDays": 5,
+   "crewDays": 3,
    "tasks": [
     {
      "id": "t_mtg221gp5b",
@@ -1431,7 +1408,10 @@
    "unit": "F2",
    "code": "FLR",
    "title": "FLR·PTR·ETR·TST·CVR → DONE Oct 2–9",
-   "assignees": [],
+   "assignees": [
+    "thomas",
+    "zoli"
+   ],
    "dates": [
     "2026-10-05",
     "2026-10-06",
@@ -2057,6 +2037,25 @@
     {
      "id": "t_f1_etr_l",
      "text": "install ~45 high-hats + switches + plates after paint"
+    }
+   ]
+  },
+  {
+   "id": "g_f2_etr_lights",
+   "unit": "F2",
+   "code": "ETR",
+   "title": "F2 ETR lights trim (Villmos)",
+   "assignees": [
+    "viamarche"
+   ],
+   "dates": [
+    "2026-10-08"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_f2_etr_l",
+     "text": "install F2 high-hats + switches + plates"
     }
    ]
   }
