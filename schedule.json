@@ -202,26 +202,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyj",
-   "unit": "F2",
-   "code": "DEM",
-   "title": "F2 DEM punch 5%",
-   "assignees": [
-    "thomas"
-   ],
-   "dates": [
-    "2026-09-01"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyk",
-     "text": "F2 DEM punch 5%",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyr",
    "unit": "F2",
    "code": "DEM",
