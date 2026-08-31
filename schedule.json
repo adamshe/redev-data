@@ -704,7 +704,7 @@
    "code": "CLS",
    "title": "F1 CLS prep",
    "assignees": [
-    "miguel"
+    "zoli"
    ],
    "dates": [
     "2026-09-10",
@@ -1060,9 +1060,9 @@
     "miguel"
    ],
    "dates": [
-    "2026-09-16",
-    "2026-09-17",
-    "2026-09-18"
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23"
    ],
    "crewDays": 3,
    "tasks": [
@@ -1283,10 +1283,9 @@
    "id": "g_mtg221go3y",
    "unit": "F1",
    "code": "SND",
-   "title": "SND·PNT (Miguel) · HVC yard condensers (Charlie)",
+   "title": "F1 HVC yard condensers (Charlie)",
    "assignees": [
-    "charlie",
-    "miguel"
+    "charlie"
    ],
    "dates": [
     "2026-09-21",
@@ -1297,16 +1296,6 @@
    ],
    "crewDays": 3,
    "tasks": [
-    {
-     "id": "t_mtg221go3z",
-     "text": "SND",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go40",
-     "text": "PNT (Miguel)",
-     "done": false
-    },
     {
      "id": "t_mtg221go41",
      "text": "HVC yard condensers (Charlie)",
@@ -1972,6 +1961,31 @@
     {
      "id": "t_1788139272561",
      "text": "plumbing AS2"
+    }
+   ]
+  },
+  {
+   "id": "g_f1_sndpnt_after_plaster",
+   "unit": "F1",
+   "code": "SND",
+   "title": "F1 SND·PNT after plaster (Miguel)",
+   "assignees": [
+    "miguel"
+   ],
+   "dates": [
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-28"
+   ],
+   "crewDays": 3,
+   "tasks": [
+    {
+     "id": "t_mtg221go3z",
+     "text": "SND"
+    },
+    {
+     "id": "t_mtg221go40",
+     "text": "PNT (Miguel)"
     }
    ]
   }
