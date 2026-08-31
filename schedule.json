@@ -552,28 +552,6 @@
    ]
   },
   {
-   "id": "g_mtg21zfz1t",
-   "unit": "F2",
-   "code": "FRM",
-   "title": "F2 FRM assist",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-09-09",
-    "2026-09-10",
-    "2026-09-11"
-   ],
-   "crewDays": 3,
-   "tasks": [
-    {
-     "id": "t_mtg21zfz1u",
-     "text": "F2 FRM assist",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21zg025",
    "unit": "AS",
    "code": "ELR",
