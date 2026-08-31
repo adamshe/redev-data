@@ -345,9 +345,9 @@
    "id": "g_mtg21zfy1h",
    "unit": "F1",
    "code": "DWV",
-   "title": "F2+F1 DWV pressure test",
+   "title": "F2+F1 DWV pressure test (Charlie)",
    "assignees": [
-    "pm"
+    "charlie"
    ],
    "dates": [
     "2026-09-07",
