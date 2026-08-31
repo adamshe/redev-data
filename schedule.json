@@ -425,26 +425,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzz17",
-   "unit": "F3",
-   "code": "ETR",
-   "title": "F3 ETR outlets/switch",
-   "assignees": [
-    "viamarche"
-   ],
-   "dates": [
-    "2026-09-04"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzz18",
-     "text": "F3 ETR outlets/switch",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21zfz1r",
    "unit": "AS1",
    "code": "MISC",
