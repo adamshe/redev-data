@@ -177,9 +177,9 @@
   },
   {
    "id": "g_mtg21xzx5",
-   "unit": "F1",
+   "unit": "F2",
    "code": "DWV",
-   "title": "F2+F1 DWV",
+   "title": "F2 DWV by room (Charlie)",
    "assignees": [
     "charlie"
    ],
@@ -190,9 +190,20 @@
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg21xzx6",
-     "text": "F2+F1 DWV",
-     "done": false
+     "id": "t_f2_dwv_k",
+     "text": "F2 DWV kitchen"
+    },
+    {
+     "id": "t_f2_dwv_b1",
+     "text": "F2 DWV bath 1 (existing, re-rough)"
+    },
+    {
+     "id": "t_f2_dwv_b2",
+     "text": "F2 DWV bath 2 (COMPLETELY NEW: full new rough)"
+    },
+    {
+     "id": "t_f2_dwv_ld",
+     "text": "F2 DWV laundry room"
     }
    ]
   },
@@ -200,7 +211,7 @@
    "id": "g_mtg21xzxd",
    "unit": "F1",
    "code": "DWV",
-   "title": "F2+F1 DWV",
+   "title": "F1 DWV by room (Garami Zoli)",
    "assignees": [
     "pm"
    ],
@@ -211,9 +222,20 @@
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg21xzxe",
-     "text": "F2+F1 DWV",
-     "done": false
+     "id": "t_f1_dwv_ba",
+     "text": "F1 DWV bath floor-1 (existing)"
+    },
+    {
+     "id": "t_f1_dwv_bb",
+     "text": "F1 DWV bath floor-2 (existing)"
+    },
+    {
+     "id": "t_f1_dwv_ld",
+     "text": "F1 DWV laundry floor-2"
+    },
+    {
+     "id": "t_f1_dwv_bs",
+     "text": "F1 DWV basement half-bath (NEW ADD)"
     }
    ]
   },
@@ -501,9 +523,8 @@
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg21zfz1m",
-     "text": "AS1 DWV",
-     "done": false
+     "id": "t_as1_dwv_b2",
+     "text": "AS1 DWV bath complete"
     }
    ]
   },
@@ -604,9 +625,8 @@
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg220aa2i",
-     "text": "AS1 DWV",
-     "done": false
+     "id": "t_as1_dwv_t",
+     "text": "AS1 DWV test + kitchen line"
     }
    ]
   },
@@ -821,9 +841,9 @@
    "id": "g_mtg220aa2j",
    "unit": "AS1",
    "code": "WSR",
-   "title": "AS1 WSR (Charlie)",
+   "title": "AS1 WSR (Garami Zoli)",
    "assignees": [
-    "charlie"
+    "pm"
    ],
    "dates": [
     "2026-09-16",
@@ -1077,14 +1097,20 @@
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg221gp4s",
-     "text": "DIM",
-     "done": false
+     "id": "t_as2_dim",
+     "text": "AS2 DIM"
     },
     {
-     "id": "t_mtg221gp4t",
-     "text": "DWV (Garami Zoli)",
-     "done": false
+     "id": "t_as2_dwv_b1",
+     "text": "AS2 DWV bath 1"
+    },
+    {
+     "id": "t_as2_dwv_b2",
+     "text": "AS2 DWV bath 2"
+    },
+    {
+     "id": "t_as2_dwv_ld",
+     "text": "AS2 DWV laundry (NEW room)"
     }
    ]
   },
@@ -1193,9 +1219,9 @@
    "id": "g_as2_hvc_ch",
    "unit": "AS2",
    "code": "HVC",
-   "title": "AS2 HVC split-AC linesets",
+   "title": "AS2 HVC split-AC linesets (Csaba, with ELR)",
    "assignees": [
-    "charlie"
+    "fil"
    ],
    "dates": [
     "2026-09-28",
@@ -1217,18 +1243,16 @@
    "id": "g_as2_wsr_pm",
    "unit": "AS2",
    "code": "WSR",
-   "title": "AS2 WSR water supply rough (Charlie)",
+   "title": "AS2 WSR water supply rough (Garami Zoli)",
    "assignees": [
-    "charlie"
+    "pm"
    ],
    "dates": [
     "2026-09-28",
     "2026-09-29",
-    "2026-09-30",
-    "2026-10-01",
-    "2026-10-02"
+    "2026-09-30"
    ],
-   "crewDays": 2,
+   "crewDays": 3,
    "tasks": [
     {
      "id": "g_as2_wsr_pm_t1",
@@ -1399,9 +1423,20 @@
    "crewDays": 3,
    "tasks": [
     {
-     "id": "t_as3_dwv1",
-     "text": "AS3 DWV rough + pressure test",
-     "done": false
+     "id": "t_as3_dwv_b1",
+     "text": "AS3 DWV bath 1"
+    },
+    {
+     "id": "t_as3_dwv_b2",
+     "text": "AS3 DWV bath 2"
+    },
+    {
+     "id": "t_as3_dwv_ld",
+     "text": "AS3 DWV laundry (NEW room)"
+    },
+    {
+     "id": "t_as3_dwv_t",
+     "text": "AS3 pressure test"
     }
    ]
   },
@@ -1475,9 +1510,9 @@
    "id": "g_as3_wsr_ch",
    "unit": "AS3",
    "code": "WSR",
-   "title": "AS3 WSR (Charlie)",
+   "title": "AS3 WSR (Garami Zoli)",
    "assignees": [
-    "charlie"
+    "pm"
    ],
    "dates": [
     "2026-10-08",
@@ -1707,8 +1742,8 @@
    "crewDays": 1,
    "tasks": [
     {
-     "id": "t_1788139254989",
-     "text": "plumbing"
+     "id": "t_as1_dwv_b",
+     "text": "AS1 DWV bath (only bath) rough start"
     }
    ]
   },
@@ -1726,8 +1761,8 @@
    "crewDays": 1,
    "tasks": [
     {
-     "id": "t_1788139272561",
-     "text": "plumbing AS2"
+     "id": "t_as2_dwv_s",
+     "text": "AS2 DWV start: bath 1"
     }
    ]
   },
