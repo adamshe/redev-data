@@ -4,6 +4,11 @@
    "done": false,
    "by": "adam",
    "at": "2026-08-30T23:59:29.602Z"
+  },
+  "g_mtg21xzyz:t_mtg21xzy10": {
+   "done": true,
+   "by": "adam",
+   "at": "2026-08-31T00:02:33.006Z"
   }
  },
  "gates": {},
@@ -18,6 +23,7 @@
   "2026-08-30T19:49:27.1091871-04:00 write-path test v2",
   "2026-08-30T23:55:31.292Z adam edited g_mtg21xzyz:t_mtg21xzy10",
   "2026-08-30T23:59:19.774Z adam done g_mtg21xzx9:t_mtg21xzxa",
-  "2026-08-30T23:59:29.602Z adam undone g_mtg21xzx9:t_mtg21xzxa"
+  "2026-08-30T23:59:29.602Z adam undone g_mtg21xzx9:t_mtg21xzxa",
+  "2026-08-31T00:02:33.006Z adam done g_mtg21xzyz (1 tasks)"
  ]
 }
