@@ -2,56 +2,56 @@
  "gates": [
   {
    "id": "g1",
-   "item": "F2 vanities, shower bases, W/D + heater specs measurable on site",
+   "item": "[Charlie] F2 vanities, shower bases, W/D + heater specs measurable on site",
    "gatesWhat": "F2 DIM → the whole DWV batch",
    "by": "2026-09-01",
    "cleared": false
   },
   {
    "id": "g2",
-   "item": "AS-F1 second-bathroom decision",
+   "item": "[Adam] AS-F1 second-bathroom decision",
    "gatesWhat": "PM's AS1 batch starts 9/9 — last cheap window",
    "by": "2026-09-03",
    "cleared": false
   },
   {
    "id": "g3",
-   "item": "Astoria electrical + plumbing packages ordered",
+   "item": "[Adam] Astoria electrical + plumbing packages ordered",
    "gatesWhat": "AS rough batches Wk1–2",
    "by": "2026-09-04",
    "cleared": false
   },
   {
    "id": "g4",
-   "item": "Con Ed service check for Astoria electrification",
+   "item": "[Adam] Con Ed service check for Astoria electrification",
    "gatesWhat": "only item nobody on the crew can accelerate",
    "by": "2026-09-04",
    "cleared": false
   },
   {
    "id": "g5",
-   "item": "F2 grilles (48x8, 30x8, 8x16) + 10\" duct kit",
+   "item": "[Charlie] F2 grilles (48x8, 30x8, 8x16) + 10\" duct kit",
    "gatesWhat": "F2 VNT Wk2",
    "by": "2026-09-11",
    "cleared": false
   },
   {
    "id": "g6",
-   "item": "F2 tile + waterproofing",
+   "item": "[Adam] F2 tile + waterproofing",
    "gatesWhat": "F2 TIL Wk3–4",
    "by": "2026-09-18",
    "cleared": false
   },
   {
    "id": "g7",
-   "item": "F2 countertop — order off the F3 template",
+   "item": "[Adam] F2 countertop — order off the F3 template",
    "gatesWhat": "F2 CTP ~Sep 30",
    "by": "2026-09-04",
    "cleared": false
   },
   {
    "id": "g8",
-   "item": "F2 cabinets · LVP (48h acclimation) · devices + fixtures",
+   "item": "[Adam] F2 cabinets · LVP (48h acclimation) · devices + fixtures",
    "gatesWhat": "F2 finish week",
    "by": "2026-09-25",
    "cleared": false
@@ -1453,6 +1453,10 @@
      "id": "t_mtg221go4a",
      "text": "CVR → DONE",
      "done": false
+    },
+    {
+     "id": "t_f1_donegate",
+     "text": "F1 DONE gate: photos + all tests pass + Adam sign-off"
     }
    ]
   },
@@ -1494,6 +1498,10 @@
      "id": "t_mtg221go3x",
      "text": "CVR → DONE Oct 2–9",
      "done": false
+    },
+    {
+     "id": "t_f2_donegate",
+     "text": "F2 DONE gate: photos + all tests pass + Adam sign-off"
     }
    ]
   },
@@ -1551,6 +1559,10 @@
      "id": "t_mtg221gp4q",
      "text": "TST → DONE ~Oct 16",
      "done": false
+    },
+    {
+     "id": "t_as1_donegate",
+     "text": "AS1 DONE gate: photos + all tests pass + Adam sign-off"
     }
    ]
   },
@@ -1651,6 +1663,10 @@
      "id": "t_mtg221gp59",
      "text": "HVC heads → DONE ~Oct 30",
      "done": false
+    },
+    {
+     "id": "t_as2_donegate",
+     "text": "AS2 DONE gate: photos + all tests pass + Adam sign-off"
     }
    ]
   },
@@ -1692,6 +1708,10 @@
      "id": "t_mtg221gq5p",
      "text": "finish → DONE ~Nov 13",
      "done": false
+    },
+    {
+     "id": "t_as3_donegate",
+     "text": "AS3 DONE gate: photos + all tests pass + Adam sign-off"
     }
    ]
   },
