@@ -344,26 +344,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzz19",
-   "unit": "AS",
-   "code": "ELR",
-   "title": "AS walk + ELR list",
-   "assignees": [
-    "fil"
-   ],
-   "dates": [
-    "2026-09-03"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzz1a",
-     "text": "AS walk + ELR list",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyv",
    "unit": "AS1",
    "code": "DEM",
