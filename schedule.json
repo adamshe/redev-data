@@ -79,26 +79,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyh",
-   "unit": "5W126",
-   "code": "MISC",
-   "title": "debris + load",
-   "assignees": [
-    "thomas"
-   ],
-   "dates": [
-    "2026-08-31"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyi",
-     "text": "debris + load",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyp",
    "unit": "5W126",
    "code": "MISC",
