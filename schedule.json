@@ -1903,6 +1903,38 @@
      "text": "line-hide covers, mount 3 heads, vacuum, charge, commission F1"
     }
    ]
+  },
+  {
+   "id": "g_f1_frm_thomas",
+   "unit": "F1",
+   "code": "FRM",
+   "title": "F1 FRM (Thomas) -- wet walls first, DWV follows room by room",
+   "assignees": [
+    "thomas"
+   ],
+   "dates": [
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-07",
+    "2026-09-08",
+    "2026-09-09"
+   ],
+   "crewDays": 6,
+   "tasks": [
+    {
+     "id": "t_f1_frm_wet",
+     "text": "F1 wet walls (bath + kitchen) 9/2-9/3 ahead of DWV tie-in"
+    },
+    {
+     "id": "t_f1_frm_part",
+     "text": "F1 partitions + blocking + door bucks"
+    },
+    {
+     "id": "t_f1_frm_punch",
+     "text": "F1 FRM punch: straighten, backing for cabinets/vanity"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
