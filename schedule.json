@@ -469,27 +469,6 @@
    ]
   },
   {
-   "id": "g_mtg21zfz1n",
-   "unit": "F2",
-   "code": "FRM",
-   "title": "F2 FRM wet walls",
-   "assignees": [
-    "thomas"
-   ],
-   "dates": [
-    "2026-09-07",
-    "2026-09-08"
-   ],
-   "crewDays": 2,
-   "tasks": [
-    {
-     "id": "t_mtg21zfz1o",
-     "text": "F2 FRM wet walls",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21zfz1z",
    "unit": "F3",
    "code": "TST",
