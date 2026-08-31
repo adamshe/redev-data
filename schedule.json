@@ -1,5 +1,4 @@
 {
- "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id.",
  "gates": [
   {
    "id": "g1",
@@ -154,8 +153,11 @@
    "tasks": [
     {
      "id": "t_mtg21xzy10",
-     "text": "load F1 MAT",
-     "done": false
+     "text": "load F1 MAT, demo closet, remove garbage"
+    },
+    {
+     "id": "t_1788135205050_1",
+     "text": "F3 painting"
     }
    ]
   },
@@ -2049,5 +2051,6 @@
     }
    ]
   }
- ]
+ ],
+ "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
 }
