@@ -62,7 +62,7 @@
    "id": "g_mtg21xzw1",
    "unit": "5W126",
    "code": "DWV",
-   "title": "debris QC + DWV layout",
+   "title": "DWV layout F1+F2 (debris QC done)",
    "assignees": [
     "charlie"
    ],
@@ -73,28 +73,7 @@
    "tasks": [
     {
      "id": "t_mtg21xzx2",
-     "text": "debris QC + DWV layout",
-     "done": false
-    }
-   ]
-  },
-  {
-   "id": "g_mtg21xzyp",
-   "unit": "5W126",
-   "code": "MISC",
-   "title": "debris + load",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-08-31"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyq",
-     "text": "debris + load",
-     "done": false
+     "text": "DWV layout F1+F2"
     }
    ]
   },
@@ -120,9 +99,9 @@
   },
   {
    "id": "g_mtg21xzyz",
-   "unit": "F1",
+   "unit": "F3",
    "code": "MISC",
-   "title": "load F1 MAT",
+   "title": "F3 painting (Miguel)",
    "assignees": [
     "miguel"
    ],
@@ -131,10 +110,6 @@
    ],
    "crewDays": 1,
    "tasks": [
-    {
-     "id": "t_mtg21xzy10",
-     "text": "load F1 MAT, demo closet, remove garbage"
-    },
     {
      "id": "t_1788135205050_1",
      "text": "F3 painting"
@@ -162,26 +137,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzy11",
-   "unit": "F1",
-   "code": "DEM",
-   "title": "F1 bath DEM",
-   "assignees": [
-    "miguel"
-   ],
-   "dates": [
-    "2026-09-01"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzy12",
-     "text": "F1 bath DEM",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzx3",
    "unit": "F2",
    "code": "MISC",
@@ -197,26 +152,6 @@
     {
      "id": "t_mtg21xzx4",
      "text": "F2 DIM + wet-zone verify",
-     "done": false
-    }
-   ]
-  },
-  {
-   "id": "g_mtg21xzyr",
-   "unit": "F2",
-   "code": "DEM",
-   "title": "F2 DEM punch + haul",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-09-01"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzys",
-     "text": "F2 DEM punch + haul",
      "done": false
     }
    ]
@@ -278,26 +213,6 @@
     {
      "id": "t_mtg21xzxe",
      "text": "F2+F1 DWV",
-     "done": false
-    }
-   ]
-  },
-  {
-   "id": "g_mtg21xzyt",
-   "unit": "F2",
-   "code": "MISC",
-   "title": "F2 haul out",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-09-02"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyu",
-     "text": "F2 haul out",
      "done": false
     }
    ]
