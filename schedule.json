@@ -225,7 +225,7 @@
    "id": "g_wed_as_svc_est",
    "unit": "AS",
    "code": "MISC",
-   "title": "Electrician service upgrade estimate (AS)",
+   "title": "configuration, design, material estimate (AS)",
    "assignees": [
     "fil"
    ],
@@ -236,8 +236,7 @@
    "tasks": [
     {
      "id": "t_wed_svc_1",
-     "text": "Service upgrade estimate walkthrough + written quote (Astoria)",
-     "done": false
+     "text": "walk , ELR and prepare material list and plumbing list"
     }
    ]
   },
