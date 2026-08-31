@@ -1861,6 +1861,54 @@
      "text": "F2 countertop install"
     }
    ]
+  },
+  {
+   "id": "g_f2_ins",
+   "unit": "F2",
+   "code": "INS",
+   "title": "F2 insulation: sound + thermal, walls + ceiling (before boarding)",
+   "assignees": [
+    "thomas"
+   ],
+   "dates": [
+    "2026-09-17",
+    "2026-09-18"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f2_ins_snd",
+     "text": "mineral wool in partition walls + ceiling joists (sound)"
+    },
+    {
+     "id": "t_f2_ins_thm",
+     "text": "exterior wall thermal batts + photo-document before board"
+    }
+   ]
+  },
+  {
+   "id": "g_f1_ins",
+   "unit": "F1",
+   "code": "INS",
+   "title": "F1 insulation: sound + thermal, walls + ceiling (before boarding)",
+   "assignees": [
+    "miguel"
+   ],
+   "dates": [
+    "2026-09-15",
+    "2026-09-16"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f1_ins_snd",
+     "text": "mineral wool in partition walls + ceiling joists (sound)"
+    },
+    {
+     "id": "t_f1_ins_thm",
+     "text": "exterior wall thermal batts + photo-document before board"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
