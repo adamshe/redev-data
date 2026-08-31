@@ -1941,6 +1941,25 @@
      "text": "job site vet"
     }
    ]
+  },
+  {
+   "id": "g_1788145575403",
+   "title": "AS DWV start",
+   "unit": "AS",
+   "code": "MISC",
+   "assignees": [
+    "fil"
+   ],
+   "dates": [
+    "2026-09-07"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788145575403",
+     "text": "AS DWV start"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
