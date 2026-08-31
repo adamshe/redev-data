@@ -1306,9 +1306,8 @@
    "id": "g_mtg221go3l",
    "unit": "F2",
    "code": "SND",
-   "title": "F2 SND·PNT1·TIL·CAB·CTP",
+   "title": "F2 SND·PNT1 (Miguel)",
    "assignees": [
-    "charlie",
     "miguel"
    ],
    "dates": [
@@ -1321,29 +1320,12 @@
    "crewDays": 6,
    "tasks": [
     {
-     "id": "t_mtg221go3m",
-     "text": "SND",
-     "done": false
+     "id": "t_f2_snd",
+     "text": "F2 sand skim coats"
     },
     {
-     "id": "t_mtg221go3n",
-     "text": "PNT1",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go3o",
-     "text": "TIL",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go3p",
-     "text": "CAB",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go3q",
-     "text": "CTP",
-     "done": false
+     "id": "t_f2_pnt1",
+     "text": "F2 first-coat paint"
     }
    ]
   },
@@ -1848,6 +1830,37 @@
     {
      "id": "t_f1_frm_punch",
      "text": "F1 FRM punch: straighten, backing for cabinets/vanity"
+    }
+   ]
+  },
+  {
+   "id": "g_f2_til_cab_ctp",
+   "unit": "F2",
+   "code": "TIL",
+   "title": "F2 TIL·CAB·CTP (Charlie)",
+   "assignees": [
+    "charlie"
+   ],
+   "dates": [
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02"
+   ],
+   "crewDays": 6,
+   "tasks": [
+    {
+     "id": "t_f2_til",
+     "text": "F2 bath tile + waterproofing"
+    },
+    {
+     "id": "t_f2_cab",
+     "text": "F2 kitchen cabinets set + level"
+    },
+    {
+     "id": "t_f2_ctp",
+     "text": "F2 countertop install"
     }
    ]
   }
