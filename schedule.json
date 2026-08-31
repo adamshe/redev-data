@@ -365,26 +365,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyx",
-   "unit": "AS1",
-   "code": "MISC",
-   "title": "AS1 haul + MAT",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-09-04"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyy",
-     "text": "AS1 haul + MAT",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzx7",
    "unit": "F1",
    "code": "DWV",
