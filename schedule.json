@@ -1816,31 +1816,23 @@
    "id": "g_f1_frm_thomas",
    "unit": "F1",
    "code": "FRM",
-   "title": "F1 FRM (Thomas) -- wet walls first, DWV follows room by room",
+   "title": "F1 FRM (Thomas) -- 2 bath frames 5x7 + laundry half-wall",
    "assignees": [
     "thomas"
    ],
    "dates": [
     "2026-09-02",
-    "2026-09-03",
-    "2026-09-04",
-    "2026-09-07",
-    "2026-09-08",
-    "2026-09-09"
+    "2026-09-03"
    ],
-   "crewDays": 6,
+   "crewDays": 2,
    "tasks": [
     {
      "id": "t_f1_frm_wet",
-     "text": "F1 wet walls (bath + kitchen) 9/2-9/3 ahead of DWV tie-in"
+     "text": "frame 2 bathroom walls 5x7 (wet walls), DWV ties in same day"
     },
     {
      "id": "t_f1_frm_part",
-     "text": "F1 partitions + blocking + door bucks"
-    },
-    {
-     "id": "t_f1_frm_punch",
-     "text": "F1 FRM punch: straighten, backing for cabinets/vanity"
+     "text": "laundry room half-side wall + vanity/cabinet backing"
     }
    ]
   },
