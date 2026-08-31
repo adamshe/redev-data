@@ -283,26 +283,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyl",
-   "unit": "F2",
-   "code": "FRM",
-   "title": "F2 FRM start",
-   "assignees": [
-    "thomas"
-   ],
-   "dates": [
-    "2026-09-02"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzym",
-     "text": "F2 FRM start",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyt",
    "unit": "F2",
    "code": "MISC",
