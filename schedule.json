@@ -240,27 +240,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzy13",
-   "unit": "F3",
-   "code": "PNT",
-   "title": "F3 PNT finish",
-   "assignees": [
-    "miguel"
-   ],
-   "dates": [
-    "2026-09-02",
-    "2026-09-03"
-   ],
-   "crewDays": 2,
-   "tasks": [
-    {
-     "id": "t_mtg21xzy14",
-     "text": "F3 PNT finish",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzx7",
    "unit": "F1",
    "code": "DWV",
