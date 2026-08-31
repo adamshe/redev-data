@@ -1177,23 +1177,19 @@
    "id": "g_mtg221go3y",
    "unit": "F1",
    "code": "HVC",
-   "title": "F1 HVC yard condensers (Charlie)",
+   "title": "F1+F2 HVC condensers -> backyard (Charlie)",
    "assignees": [
     "charlie"
    ],
    "dates": [
     "2026-09-21",
-    "2026-09-22",
-    "2026-09-23",
-    "2026-09-24",
-    "2026-09-25"
+    "2026-09-22"
    ],
-   "crewDays": 3,
+   "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg221go41",
-     "text": "HVC yard condensers (Charlie)",
-     "done": false
+     "id": "t_hvc_cond",
+     "text": "set F1+F2 condensers on pads, mount, wire, connect linesets"
     }
    ]
   },
@@ -1201,7 +1197,7 @@
    "id": "g_mtg221gn3h",
    "unit": "F2",
    "code": "CLS",
-   "title": "CLS·PLS · HVC condenser→backyard (Charlie)",
+   "title": "F2 CLS·PLS (Charlie)",
    "assignees": [
     "charlie"
    ],
@@ -1222,11 +1218,6 @@
     {
      "id": "t_mtg221go3j",
      "text": "PLS",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go3k",
-     "text": "HVC condenser→backyard (Charlie)",
      "done": false
     }
    ]
@@ -1361,10 +1352,9 @@
    "id": "g_mtg221go42",
    "unit": "F1",
    "code": "TIL",
-   "title": "TIL·vanity·PTR·ETR · HVC line-hide+heads",
+   "title": "F1 TIL·vanity·PTR·ETR",
    "assignees": [
-    "charlie",
-    "viamarche"
+    "charlie"
    ],
    "dates": [
     "2026-09-28",
@@ -1394,11 +1384,6 @@
      "id": "t_mtg221go46",
      "text": "ETR",
      "done": false
-    },
-    {
-     "id": "t_mtg221go47",
-     "text": "HVC line-hide+heads",
-     "done": false
     }
    ]
   },
@@ -1406,10 +1391,9 @@
    "id": "g_mtg221go3l",
    "unit": "F2",
    "code": "SND",
-   "title": "SND·PNT1·TIL·CAB·CTP · HVC heads+commission",
+   "title": "F2 SND·PNT1·TIL·CAB·CTP",
    "assignees": [
     "charlie",
-    "viamarche",
     "miguel"
    ],
    "dates": [
@@ -1444,11 +1428,6 @@
     {
      "id": "t_mtg221go3q",
      "text": "CTP",
-     "done": false
-    },
-    {
-     "id": "t_mtg221go3r",
-     "text": "HVC heads+commission",
      "done": false
     }
    ]
@@ -1880,6 +1859,48 @@
     {
      "id": "t_mtg221go40",
      "text": "PNT (Miguel)"
+    }
+   ]
+  },
+  {
+   "id": "g_f2_hvc_heads",
+   "unit": "F2",
+   "code": "HVC",
+   "title": "F2 HVC heads x3 + vacuum/charge + commission",
+   "assignees": [
+    "charlie",
+    "viamarche"
+   ],
+   "dates": [
+    "2026-09-28",
+    "2026-09-29"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f2_heads",
+     "text": "mount 3 heads, vacuum, charge, commission F2"
+    }
+   ]
+  },
+  {
+   "id": "g_f1_hvc_heads",
+   "unit": "F1",
+   "code": "HVC",
+   "title": "F1 HVC line-hide + heads x3 + commission",
+   "assignees": [
+    "charlie",
+    "viamarche"
+   ],
+   "dates": [
+    "2026-09-30",
+    "2026-10-01"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f1_heads",
+     "text": "line-hide covers, mount 3 heads, vacuum, charge, commission F1"
     }
    ]
   }
