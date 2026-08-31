@@ -1928,6 +1928,25 @@
      "text": "load material, start plumbing"
     }
    ]
+  },
+  {
+   "id": "g_1788139254989",
+   "title": "plumbing",
+   "unit": "AS1",
+   "code": "MISC",
+   "assignees": [
+    "fil"
+   ],
+   "dates": [
+    "2026-09-08"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788139254989",
+     "text": "plumbing"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
