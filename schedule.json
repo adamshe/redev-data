@@ -344,26 +344,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyv",
-   "unit": "AS1",
-   "code": "DEM",
-   "title": "AS1 DEM punch",
-   "assignees": [
-    "zoli"
-   ],
-   "dates": [
-    "2026-09-03"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyw",
-     "text": "AS1 DEM punch",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzyn",
    "unit": "F2",
    "code": "FRM",
