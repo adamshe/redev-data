@@ -232,10 +232,6 @@
     {
      "id": "t_f1_dwv_ld",
      "text": "F1 DWV laundry floor-2"
-    },
-    {
-     "id": "t_f1_dwv_bs",
-     "text": "F1 DWV basement half-bath (NEW ADD)"
     }
    ]
   },
@@ -2012,6 +2008,31 @@
     {
      "id": "t_1788146608361",
      "text": "move materials, finish electric cover"
+    }
+   ]
+  },
+  {
+   "id": "g_f1_basement_dwv",
+   "unit": "F1",
+   "code": "DWV",
+   "title": "F1 basement half-bath: saw-cut slab + bury drain (Garami Zoli + Zoli)",
+   "assignees": [
+    "pm",
+    "zoli"
+   ],
+   "dates": [
+    "2026-09-03",
+    "2026-09-04"
+   ],
+   "crewDays": 4,
+   "tasks": [
+    {
+     "id": "t_f1_bs_cut",
+     "text": "saw-cut slab, trench to stack, haul concrete debris (Zoli)"
+    },
+    {
+     "id": "t_f1_bs_pipe",
+     "text": "bury drain + vent, slope check, backfill; ties into 9/7 pressure test"
     }
    ]
   }
