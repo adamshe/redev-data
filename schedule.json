@@ -1130,10 +1130,10 @@
     "miguel"
    ],
    "dates": [
-    "2026-10-08",
-    "2026-10-09",
-    "2026-10-12",
-    "2026-10-13"
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-19"
    ],
    "crewDays": 4,
    "tasks": [
@@ -1255,11 +1255,11 @@
     "charlie"
    ],
    "dates": [
-    "2026-10-08",
     "2026-10-09",
     "2026-10-12",
     "2026-10-13",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-15"
    ],
    "crewDays": 5,
    "tasks": [
@@ -1374,9 +1374,9 @@
     "charlie"
    ],
    "dates": [
-    "2026-10-05",
     "2026-10-06",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08"
    ],
    "crewDays": 3,
    "tasks": [
@@ -1405,8 +1405,8 @@
    "title": "TST·CVR → DONE",
    "assignees": [],
    "dates": [
-    "2026-10-15",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-10-19"
    ],
    "crewDays": 2,
    "tasks": [
@@ -1500,11 +1500,10 @@
    "title": "FLR·trim·HVC heads·TST → DONE ~Oct 16",
    "assignees": [],
    "dates": [
-    "2026-10-12",
-    "2026-10-13",
-    "2026-10-14",
-    "2026-10-15",
-    "2026-10-16"
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23"
    ],
    "crewDays": 5,
    "tasks": [
@@ -1748,7 +1747,7 @@
    "id": "g_f1_sndpnt_after_plaster",
    "unit": "F1",
    "code": "SND",
-   "title": "F1 SND·PNT after plaster (Miguel)",
+   "title": "F1 SND·PNT both floors, 4d each (Miguel) -- paint all except tiled zones",
    "assignees": [
     "miguel"
    ],
@@ -1756,9 +1755,13 @@
     "2026-10-02",
     "2026-10-05",
     "2026-10-06",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-12",
+    "2026-10-13"
    ],
-   "crewDays": 4,
+   "crewDays": 8,
    "tasks": [
     {
      "id": "t_mtg221go3z",
@@ -1795,20 +1798,22 @@
    "id": "g_f1_hvc_heads",
    "unit": "F1",
    "code": "HVC",
-   "title": "F1 HVC line-hide + heads x3 + commission",
+   "title": "F1 HVC line-hide + 7 heads (3+3+1) + commission",
    "assignees": [
     "charlie",
     "viamarche"
    ],
    "dates": [
     "2026-09-30",
-    "2026-10-01"
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-05"
    ],
-   "crewDays": 2,
+   "crewDays": 4,
    "tasks": [
     {
      "id": "t_f1_heads",
-     "text": "line-hide covers, mount 3 heads, vacuum, charge, commission F1"
+     "text": "line-hide covers; mount 3+3+1 heads (fl1/fl2/basement); vacuum, charge, commission"
     }
    ]
   },
