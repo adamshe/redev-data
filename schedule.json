@@ -1909,6 +1909,25 @@
      "done": false
     }
    ]
+  },
+  {
+   "id": "g_1788139121797",
+   "title": "AS load material, start plumbing",
+   "unit": "AS",
+   "code": "MISC",
+   "assignees": [
+    "fil"
+   ],
+   "dates": [
+    "2026-09-07"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788139121797",
+     "text": "AS load material, start plumbing"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
