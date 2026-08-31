@@ -324,27 +324,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzyn",
-   "unit": "F2",
-   "code": "FRM",
-   "title": "F2 FRM",
-   "assignees": [
-    "thomas"
-   ],
-   "dates": [
-    "2026-09-03",
-    "2026-09-04"
-   ],
-   "crewDays": 2,
-   "tasks": [
-    {
-     "id": "t_mtg21xzyo",
-     "text": "F2 FRM",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21xzx7",
    "unit": "F1",
    "code": "DWV",
