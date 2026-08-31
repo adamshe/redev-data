@@ -405,19 +405,25 @@
    "id": "g_mtg21zfz21",
    "unit": "F1",
    "code": "ELR",
-   "title": "F1 ELR (fan/GFCI)",
+   "title": "F1 ELR rough (Villmos) -- ~45 high-hats both floors + fan/GFCI",
    "assignees": [
     "viamarche"
    ],
    "dates": [
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
     "2026-09-09"
    ],
-   "crewDays": 1,
+   "crewDays": 4,
    "tasks": [
     {
-     "id": "t_mtg21zfz22",
-     "text": "F1 ELR (fan/GFCI)",
-     "done": false
+     "id": "t_f1_elr_l",
+     "text": "rough ~45 high-hat boxes + cable: 4-5/room, 6-8 living, both floors"
+    },
+    {
+     "id": "t_f1_elr_g",
+     "text": "bath fans + GFCI circuits + basement half-bath circuit"
     }
    ]
   },
@@ -2031,6 +2037,26 @@
     {
      "id": "t_f1_bs_pipe",
      "text": "bury drain + vent, slope check, backfill; ties into 9/7 pressure test"
+    }
+   ]
+  },
+  {
+   "id": "g_f1_etr_lights",
+   "unit": "F1",
+   "code": "ETR",
+   "title": "F1 ETR lights trim x45 (Villmos)",
+   "assignees": [
+    "viamarche"
+   ],
+   "dates": [
+    "2026-10-14",
+    "2026-10-15"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f1_etr_l",
+     "text": "install ~45 high-hats + switches + plates after paint"
     }
    ]
   }
