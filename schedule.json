@@ -280,26 +280,6 @@
    ]
   },
   {
-   "id": "g_mtg21xzy15",
-   "unit": "F3",
-   "code": "PNT",
-   "title": "F3 PNT touch",
-   "assignees": [
-    "miguel"
-   ],
-   "dates": [
-    "2026-09-04"
-   ],
-   "crewDays": 1,
-   "tasks": [
-    {
-     "id": "t_mtg21xzy16",
-     "text": "F3 PNT touch",
-     "done": false
-    }
-   ]
-  },
-  {
    "id": "g_mtg21zfz1r",
    "unit": "AS1",
    "code": "MISC",
