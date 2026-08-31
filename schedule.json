@@ -230,7 +230,7 @@
     "fil"
    ],
    "dates": [
-    "2026-09-02"
+    "2026-09-10"
    ],
    "crewDays": 0.5,
    "tasks": [
@@ -721,7 +721,7 @@
    "code": "MISC",
    "title": "AS2 MAT",
    "assignees": [
-    "miguel"
+    "zoli"
    ],
    "dates": [
     "2026-09-14"
@@ -803,7 +803,7 @@
    "code": "MISC",
    "title": "AS1 MAT",
    "assignees": [
-    "miguel"
+    "zoli"
    ],
    "dates": [
     "2026-09-15"
@@ -1511,9 +1511,9 @@
    "id": "g_as3_dwv_pm",
    "unit": "AS3",
    "code": "DWV",
-   "title": "AS3 DWV (Garami Zoli)",
+   "title": "AS3 DWV (Charlie)",
    "assignees": [
-    "pm"
+    "charlie"
    ],
    "dates": [
     "2026-10-05",
@@ -1807,7 +1807,7 @@
    "unit": "AS",
    "code": "MISC",
    "assignees": [
-    "fil"
+    "pm"
    ],
    "dates": [
     "2026-09-07"
@@ -1826,7 +1826,7 @@
    "unit": "AS1",
    "code": "MISC",
    "assignees": [
-    "fil"
+    "pm"
    ],
    "dates": [
     "2026-09-08"
@@ -1845,7 +1845,7 @@
    "unit": "AS2",
    "code": "MISC",
    "assignees": [
-    "fil"
+    "pm"
    ],
    "dates": [
     "2026-09-09"
