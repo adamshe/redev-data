@@ -1176,7 +1176,7 @@
   {
    "id": "g_mtg221go3y",
    "unit": "F1",
-   "code": "SND",
+   "code": "HVC",
    "title": "F1 HVC yard condensers (Charlie)",
    "assignees": [
     "charlie"
