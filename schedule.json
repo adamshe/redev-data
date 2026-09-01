@@ -2119,6 +2119,25 @@
      "text": "general wiring 2/5"
     }
    ]
+  },
+  {
+   "id": "g_1788235281708",
+   "title": "painting",
+   "unit": "F3",
+   "code": "MISC",
+   "assignees": [
+    "miguel"
+   ],
+   "dates": [
+    "2026-09-02"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788235281708",
+     "text": "painting"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
