@@ -1,9 +1,9 @@
 {
  "tasks": {
   "g_mtg21xzx9:t_mtg21xzxa": {
-   "done": false,
+   "done": true,
    "by": "adam",
-   "at": "2026-08-30T23:59:29.602Z"
+   "at": "2026-09-01T03:48:55.679Z"
   },
   "g_mtg21xzyz:t_mtg21xzy10": {
    "done": true,
@@ -42,6 +42,7 @@
   "2026-08-31T00:22:12.734Z adam edited g_wed_as_svc_est:t_wed_svc_1",
   "2026-08-31T01:18:50.053Z adam done g_1788139121797:t_1788139121797",
   "2026-08-31T01:18:56.956Z adam undone g_1788139121797 (1 tasks)",
-  "2026-08-31T01:52:49.135467+00:00 adam: F1/F2 demolition complete (7 tasks)"
+  "2026-08-31T01:52:49.135467+00:00 adam: F1/F2 demolition complete (7 tasks)",
+  "2026-09-01T03:48:55.679Z adam done g_mtg21xzx9 (1 tasks)"
  ]
 }
