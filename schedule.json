@@ -211,9 +211,10 @@
    "id": "g_mtg21xzxd",
    "unit": "F1",
    "code": "DWV",
-   "title": "F1 DWV by room (Garami Zoli)",
+   "title": "F1 DWV by room (Garami Zoli + Zoli)",
    "assignees": [
-    "pm"
+    "pm",
+    "zoli"
    ],
    "dates": [
     "2026-09-02",
@@ -410,10 +411,10 @@
     "viamarche"
    ],
    "dates": [
-    "2026-09-02",
-    "2026-09-03",
-    "2026-09-04",
-    "2026-09-09"
+    "2026-09-11",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-16"
    ],
    "crewDays": 4,
    "tasks": [
@@ -431,21 +432,20 @@
    "id": "g_mtg21zfy1f",
    "unit": "F2",
    "code": "WSR",
-   "title": "F2 WSR",
+   "title": "F2 boiler + hot/cold water system (Charlie)",
    "assignees": [
     "charlie"
    ],
    "dates": [
-    "2026-09-09",
-    "2026-09-10",
-    "2026-09-11"
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03"
    ],
    "crewDays": 3,
    "tasks": [
     {
-     "id": "t_mtg21zfy1g",
-     "text": "F2 WSR",
-     "done": false
+     "id": "t_f2_boiler",
+     "text": "install boiler; hot + cold water supply lines"
     }
    ]
   },
@@ -519,8 +519,8 @@
     "viamarche"
    ],
    "dates": [
-    "2026-09-10",
-    "2026-09-11"
+    "2026-09-02",
+    "2026-09-03"
    ],
    "crewDays": 2,
    "tasks": [
@@ -662,11 +662,10 @@
     "viamarche"
    ],
    "dates": [
-    "2026-09-14",
-    "2026-09-15",
-    "2026-09-16"
+    "2026-09-09",
+    "2026-09-10"
    ],
-   "crewDays": 3,
+   "crewDays": 2,
    "tasks": [
     {
      "id": "t_mtg220ab3a",
@@ -742,13 +741,13 @@
    "id": "g_mtg220aa2b",
    "unit": "F2",
    "code": "HVC",
-   "title": "F2 HVC linesets",
+   "title": "F2 HVC linesets install (Charlie + Villmos)",
    "assignees": [
-    "charlie"
+    "charlie",
+    "viamarche"
    ],
    "dates": [
-    "2026-09-15",
-    "2026-09-16"
+    "2026-09-04"
    ],
    "crewDays": 2,
    "tasks": [
@@ -2056,6 +2055,26 @@
     {
      "id": "t_f2_etr_l",
      "text": "install F2 high-hats + switches + plates"
+    }
+   ]
+  },
+  {
+   "id": "g_f2_cls_ext",
+   "unit": "F2",
+   "code": "CLS",
+   "title": "F2 close outside walls (Charlie) -- after boiler + water in",
+   "assignees": [
+    "charlie"
+   ],
+   "dates": [
+    "2026-09-07",
+    "2026-09-08"
+   ],
+   "crewDays": 2,
+   "tasks": [
+    {
+     "id": "t_f2_cls_ext",
+     "text": "insulate + board exterior wall sections (boiler/water runs verified)"
     }
    ]
   }
