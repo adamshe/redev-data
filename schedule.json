@@ -1990,7 +1990,11 @@
    "tasks": [
     {
      "id": "t_1788146608361",
-     "text": "move materials, finish electric cover"
+     "text": "move materials"
+    },
+    {
+     "id": "t_1788234585804_1",
+     "text": "finish electric cover"
     }
    ]
   },
