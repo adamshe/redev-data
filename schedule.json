@@ -2081,6 +2081,25 @@
      "text": "insulate + board exterior wall sections (boiler/water runs verified)"
     }
    ]
+  },
+  {
+   "id": "g_1788235062195",
+   "title": "f2 general wiring",
+   "unit": "F2",
+   "code": "MISC",
+   "assignees": [
+    "viamarche"
+   ],
+   "dates": [
+    "2026-08-31"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788235062195",
+     "text": "f2 general wiring"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
