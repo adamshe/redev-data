@@ -62,7 +62,7 @@
    "id": "g_mtg21xzw1",
    "unit": "5W126",
    "code": "DWV",
-   "title": "DWV layout F1+F2 (debris QC done)",
+   "title": "DWV layout F1+F2",
    "assignees": [
     "charlie"
    ],
@@ -80,7 +80,7 @@
   {
    "id": "g_mtg21xzx9",
    "unit": "F1",
-   "code": "MISC",
+   "code": "MAT",
    "title": "F1/F2 pipe MAT check",
    "assignees": [
     "pm"
@@ -100,7 +100,7 @@
   {
    "id": "g_mtg21xzyz",
    "unit": "F3",
-   "code": "MISC",
+   "code": "PNT",
    "title": "garbage removal, demo, F3 painting (Miguel)",
    "assignees": [
     "miguel"
@@ -119,7 +119,7 @@
   {
    "id": "g_mtg21xzxb",
    "unit": "F1",
-   "code": "MISC",
+   "code": "DIM",
    "title": "F2 DIM · F1 layout",
    "assignees": [
     "pm"
@@ -139,7 +139,7 @@
   {
    "id": "g_mtg21xzx3",
    "unit": "F2",
-   "code": "MISC",
+   "code": "DIM",
    "title": "F2 DIM + wet-zone verify",
    "assignees": [
     "charlie"
@@ -179,7 +179,7 @@
    "id": "g_mtg21xzx5",
    "unit": "F2",
    "code": "DWV",
-   "title": "F2 DWV by room (Charlie) -- in progress 9/2",
+   "title": "F2 DWV by room (Charlie)",
    "assignees": [
     "charlie"
    ],
@@ -211,7 +211,7 @@
    "id": "g_mtg21xzxd",
    "unit": "F1",
    "code": "DWV",
-   "title": "F1 DWV by room (Garami Zoli + Zoli) -- DONE 9/2, one day early",
+   "title": "F1 DWV by room (Garami Zoli + Zoli)",
    "assignees": [
     "pm",
     "zoli"
@@ -519,7 +519,7 @@
    "id": "g_mtg21zg023",
    "unit": "F2",
    "code": "ELR",
-   "title": "F2 ELR.A (Villmos) -- baths+laundry done 9/1, finishing 9/2",
+   "title": "F2 ELR.A (Villmos)",
    "assignees": [
     "viamarche"
    ],
@@ -1922,7 +1922,15 @@
    "tasks": [
     {
      "id": "t_1788145097429",
-     "text": "job site vet design and prepare material order"
+     "text": "site walk + key layout with Charlie"
+    },
+    {
+     "id": "t_as_el_design",
+     "text": "electric design + service-upgrade estimate"
+    },
+    {
+     "id": "t_as_mat_order",
+     "text": "material order list"
     }
    ]
   },
@@ -2094,7 +2102,7 @@
    "id": "g_1788235062195",
    "title": "f2 general wiring",
    "unit": "F2",
-   "code": "MISC",
+   "code": "ELR",
    "assignees": [
     "viamarche"
    ],
@@ -2111,9 +2119,9 @@
   },
   {
    "id": "g_1788235200036",
-   "title": "general wiring 2/5",
+   "title": "F2 general wiring (5 runs, Villmos)",
    "unit": "F2",
-   "code": "MISC",
+   "code": "ELR",
    "assignees": [
     "viamarche"
    ],
@@ -2123,8 +2131,26 @@
    "crewDays": 1,
    "tasks": [
     {
+     "id": "t_f2_wire_r1",
+     "text": "wiring run 1",
+     "done": true
+    },
+    {
+     "id": "t_f2_wire_r2",
+     "text": "wiring run 2",
+     "done": true
+    },
+    {
      "id": "t_1788235200036",
-     "text": "general wiring 2/5"
+     "text": "wiring run 3"
+    },
+    {
+     "id": "t_f2_wire_r4",
+     "text": "wiring run 4"
+    },
+    {
+     "id": "t_f2_wire_r5",
+     "text": "wiring run 5"
     }
    ]
   },
@@ -2132,7 +2158,7 @@
    "id": "g_1788235281708",
    "title": "painting",
    "unit": "F3",
-   "code": "MISC",
+   "code": "PNT",
    "assignees": [
     "miguel"
    ],
@@ -2151,7 +2177,7 @@
    "id": "g_1788235334908",
    "title": "F3 plastering (Zoli)",
    "unit": "F3",
-   "code": "MISC",
+   "code": "PLS",
    "assignees": [
     "zoli"
    ],
