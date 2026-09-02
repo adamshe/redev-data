@@ -432,9 +432,10 @@
    "id": "g_mtg21zfy1f",
    "unit": "F2",
    "code": "WSR",
-   "title": "F2 boiler + hot/cold water system (Charlie)",
+   "title": "F2 boiler + hot/cold water (Charlie + Garami)",
    "assignees": [
-    "charlie"
+    "charlie",
+    "pm"
    ],
    "dates": [
     "2026-09-01",
@@ -445,7 +446,11 @@
    "tasks": [
     {
      "id": "t_f2_boiler",
-     "text": "install boiler; hot + cold water supply lines"
+     "text": "boiler + hot/cold supply -- done 9/1"
+    },
+    {
+     "id": "t_f2_shower",
+     "text": "2 bath shower bodies (9/2)"
     }
    ]
   },
@@ -519,15 +524,18 @@
     "viamarche"
    ],
    "dates": [
-    "2026-09-02",
-    "2026-09-03"
+    "2026-09-01",
+    "2026-09-02"
    ],
    "crewDays": 2,
    "tasks": [
     {
-     "id": "t_mtg21zg024",
-     "text": "F2 ELR.A",
-     "done": false
+     "id": "t_f2_elra_bath",
+     "text": "2 bath general wiring + laundry room -- done 9/1"
+    },
+    {
+     "id": "t_f2_elra_rest",
+     "text": "ELR.A remaining runs (9/2)"
     }
    ]
   },
@@ -2141,8 +2149,8 @@
   },
   {
    "id": "g_1788235334908",
-   "title": "plastering, help Garami plumbing",
-   "unit": "F2/F1",
+   "title": "F3 plastering (Zoli)",
+   "unit": "F3",
    "code": "MISC",
    "assignees": [
     "zoli"
@@ -2154,7 +2162,7 @@
    "tasks": [
     {
      "id": "t_1788235334908",
-     "text": "plastering, help Garami plumbing"
+     "text": "F3 plastering"
     }
    ]
   }
