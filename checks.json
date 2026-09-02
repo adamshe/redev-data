@@ -44,6 +44,36 @@
    "done": true,
    "by": "adam",
    "at": "2026-09-01T04:00:48.409Z"
+  },
+  "g_1788235334908:t_1788235334908": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
+  },
+  "g_mtg21zfy1f:t_f2_boiler": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
+  },
+  "g_mtg21zg023:t_f2_elra_bath": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
+  },
+  "g_mtg21xzxd:t_f1_dwv_ba": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
+  },
+  "g_mtg21xzxd:t_f1_dwv_bb": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
+  },
+  "g_mtg21xzxd:t_f1_dwv_ld": {
+   "done": true,
+   "by": "charlie",
+   "at": "2026-09-02T10:28:49.108240+00:00"
   }
  },
  "gates": {},
@@ -79,6 +109,7 @@
   "2026-09-01T03:49:49.108Z adam done g_1788146608361:t_1788146608361",
   "2026-09-01T03:57:51.656Z adam done g_1788235062195 (1 tasks)",
   "2026-09-01T04:00:40.781Z adam done g_mtg21xzx3 (1 tasks)",
-  "2026-09-01T04:00:48.409Z adam done g_mtg21xzxb (1 tasks)"
+  "2026-09-01T04:00:48.409Z adam done g_mtg21xzxb (1 tasks)",
+  "2026-09-02T10:28:49.108240+00:00 charlie field report: 6 tasks done"
  ]
 }
