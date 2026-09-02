@@ -179,7 +179,7 @@
    "id": "g_mtg21xzx5",
    "unit": "F2",
    "code": "DWV",
-   "title": "F2 DWV by room (Charlie)",
+   "title": "F2 DWV by room (Charlie) -- in progress 9/2",
    "assignees": [
     "charlie"
    ],
@@ -195,11 +195,11 @@
     },
     {
      "id": "t_f2_dwv_b1",
-     "text": "F2 DWV bath 1 (existing, re-rough)"
+     "text": "F2 DWV bath 1 (existing, re-rough) (shower body 9/2)"
     },
     {
      "id": "t_f2_dwv_b2",
-     "text": "F2 DWV bath 2 (COMPLETELY NEW: full new rough)"
+     "text": "F2 DWV bath 2 (COMPLETELY NEW: full new rough) (shower body 9/2)"
     },
     {
      "id": "t_f2_dwv_ld",
@@ -211,7 +211,7 @@
    "id": "g_mtg21xzxd",
    "unit": "F1",
    "code": "DWV",
-   "title": "F1 DWV by room (Garami Zoli + Zoli)",
+   "title": "F1 DWV by room (Garami Zoli + Zoli) -- DONE 9/2, one day early",
    "assignees": [
     "pm",
     "zoli"
@@ -335,7 +335,7 @@
    "tasks": [
     {
      "id": "t_mtg21zfz1i",
-     "text": "F2+F1 DWV pressure test",
+     "text": "F2+F1 DWV pressure test -- F1 side ready early (done 9/2), F2 rooms close behind",
      "done": false
     }
    ]
@@ -519,7 +519,7 @@
    "id": "g_mtg21zg023",
    "unit": "F2",
    "code": "ELR",
-   "title": "F2 ELR.A",
+   "title": "F2 ELR.A (Villmos) -- baths+laundry done 9/1, finishing 9/2",
    "assignees": [
     "viamarche"
    ],
@@ -2023,7 +2023,7 @@
    "tasks": [
     {
      "id": "t_f1_bs_cut",
-     "text": "saw-cut slab, trench to stack, haul concrete debris (Zoli)"
+     "text": "saw-cut slab, trench to stack, haul concrete debris (Zoli) -- duplex rough already done, full focus here"
     },
     {
      "id": "t_f1_bs_pipe",
