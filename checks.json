@@ -79,6 +79,21 @@
    "done": true,
    "by": "charlie",
    "at": "2026-09-02T10:35:48.192575+00:00"
+  },
+  "g_1788145097429:t_1788145097429": {
+   "done": true,
+   "by": "adam",
+   "at": "2026-09-04T02:09:26.844Z"
+  },
+  "g_1788145097429:t_as_el_design": {
+   "done": true,
+   "by": "adam",
+   "at": "2026-09-04T02:09:26.844Z"
+  },
+  "g_1788145097429:t_as_mat_order": {
+   "done": true,
+   "by": "adam",
+   "at": "2026-09-04T02:09:26.844Z"
   }
  },
  "gates": {},
@@ -116,6 +131,7 @@
   "2026-09-01T04:00:40.781Z adam done g_mtg21xzx3 (1 tasks)",
   "2026-09-01T04:00:48.409Z adam done g_mtg21xzxb (1 tasks)",
   "2026-09-02T10:28:49.108240+00:00 charlie field report: 6 tasks done",
-  "2026-09-02T10:35:48.192575+00:00 progress reconciliation: 1 prep tasks confirmed done"
+  "2026-09-02T10:35:48.192575+00:00 progress reconciliation: 1 prep tasks confirmed done",
+  "2026-09-04T02:09:26.844Z adam done g_1788145097429 (3 tasks)"
  ]
 }
