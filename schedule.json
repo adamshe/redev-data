@@ -2191,6 +2191,25 @@
      "text": "F3 plastering"
     }
    ]
+  },
+  {
+   "id": "g_1788487800165",
+   "title": "F2 general wiring",
+   "unit": "F2",
+   "code": "MISC",
+   "assignees": [
+    "viamarche"
+   ],
+   "dates": [
+    "2026-09-03"
+   ],
+   "crewDays": 1,
+   "tasks": [
+    {
+     "id": "t_1788487800165",
+     "text": "F2 general wiring"
+    }
+   ]
   }
  ],
  "_readme": "THE schedule database. Edit on github.com (pencil icon) -> commit -> refresh the site. dates are YYYY-MM-DD; assignees use ids: charlie, pm(Garami Zoli), viamarche(Villmos), fil(Csaba), thomas, zoli, miguel. New tasks: give any unique id."
